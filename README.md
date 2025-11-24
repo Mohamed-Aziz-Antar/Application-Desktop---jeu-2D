@@ -1,4 +1,4 @@
-Description : //
+Description : 
 Dans ce jeu 2D, le joueur contrôle un personnage pour trouver des clés cachées et les ramasser afin d’ouvrir une porte et accéder au trésor.
 
 Technologies :
